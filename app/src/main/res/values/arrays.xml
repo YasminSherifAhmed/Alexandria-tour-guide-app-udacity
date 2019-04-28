@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_attraction_names">
+        <item>Bibliotheca Alexandrina</item>
+        <item>Citadel of Qaitbey</item>
+        <item>Alexandria National Museum</item>
+        <item>Catacombs of Kom El Shoqafa</item>
+        <item>Pompey Pillar</item>
+        <item>Ras el-Tin Palace</item>
+    </string-array>
+
+    <string-array name="list_attraction_addresses">
+        <item>Al Azaritah WA Ash Shatebi, Qesm Bab Sharqi</item>
+        <item>As Sayalah Sharq, Qesm Al Gomrok</item>
+        <item>131 El-Shaheed Galal El-Desouky, Bab Sharqi WA Wabour Al Meyah</item>
+        <item>12 Qesm Karmouz</item>
+        <item>Al Karah WA at Toubageyah WA Kafr Al Ghates</item>
+        <item>Ad Daerah Al Gomrokeyah, Shortet Al Mina</item>
+    </string-array>
+
+    <string-array name="list_attraction_opening_hours">
+        <item>Opening hours: 10:00 to 19:00</item>
+        <item>Opening hours: 8:00 to 17:00</item>
+        <item>Opening hours: 9:00 to 16:30</item>
+        <item>Opening hours: 8:00 to 16:00</item>
+        <item>Opening hours: 10:00 to 17:00</item>
+        <item>Opening hours: 10:00 to 16:00</item>
+    </string-array>
+
+    <array name="list_attraction_images">
+        <item>@</item>
+    </array>
+
+    <string-array name="list_event_names">
+        <item>With Iron and Fire Festival</item>
+        <item>FEZEN</item>
+        <item>Royal Days</item>
+        <item>Börgönd Flying Day</item>
+        <item>National Army Festival</item>
+        <item>Fehérvár Advent</item>
+    </string-array>
+
+    <string-array name="list_event_addresses">
+        <item>8000 Székesfehérvár, Rác u.27.</item>
+        <item>8000 Székesfehérvár, Takarodó u. 1.</item>
+        <item>8000 Székesfehérvár, Koronázó tér</item>
+        <item>8000 Börgönd Airport</item>
+        <item>Pákozd Katonai Emlékpark</item>
+        <item>8000 Székesfehérvár, Koronázó tér</item>
+    </string-array>
+
+    <string-array name="list_event_opening_hours">
+        <item>2017. June 24.</item>
+        <item>2017. August 02. - 2017. August 05.</item>
+        <item>2017. August 11. - 2017. August 20.</item>
+        <item>2017. September 10.</item>
+        <item>2017. September 23. - 2017. September 29.</item>
+        <item>2017. December 01. - 2017. December 24.</item>
+    </string-array>
+
+    <array name="list_event_images">
+    </array>
+
+    <string-array name="list_accommodation_names">
+        <item>Hungarian King Hotel ****</item>
+        <item>Lakeside Hotel ****</item>
+        <item>Szárcsa Hotel ***</item>
+        <item>József Attila Kollégium</item>
+        <item>Kistuba Boarding house</item>
+        <item>Hotel Vadászkürt **</item>
+    </string-array>
+
+    <string-array name="list_accommodation_addresses">
+        <item>8000 Székesfehérvár, Fő utca 10.</item>
+        <item>8000 Székesfehérvár, Ligetsor 50/A.</item>
+        <item>8000 Székesfehérvár, Szárcsa u. 1.</item>
+        <item>8000 Székesfehérvár, Széchenyi utca</item>
+        <item>8000 Székesfehérvár, Bregyó köz 6.</item>
+        <item>8000 Székesfehérvár, Móricz u. 1.</item>
+    </string-array>
+
+    <string-array name="list_accommodation_opening_hours">
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: from Friday to Sunday</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+    </string-array>
+
+    <array name="list_accommodation_images">
+    </array>
+
+    <string-array name="list_restaurant_names">
+        <item>Diófa Restaurant</item>
+        <item>Szárcsa Restaurant</item>
+        <item>Kiskulacs Restaurant</item>
+        <item>Kertész Inn</item>
+        <item>Vörösmarty Confectionery</item>
+        <item>Soho Restaurant and Five X Bowling Center</item>
+    </string-array>
+
+    <string-array name="list_restaurant_addresses">
+        <item>8000 Székesfehérvár, Kadocsa út 32/a</item>
+        <item>8000 Székesfehérvár, Szárcsa u. 1.</item>
+        <item>8000 Székesfehérvár, Budai út 26.</item>
+        <item>8000 Székesfehérvár, Iszkaszentgyörgyi út 2.</item>
+        <item>8000 Székesfehérvár, Várkapu u. 3.</item>
+        <item>8000 Székesfehérvár, Palotai út 6.</item>
+    </string-array>
+
+    <string-array name="list_restaurant_opening_hours">
+        <item>Opening Hours: 11:00 to 23:00</item>
+        <item>Opening hours: 11:00 to 22:00</item>
+        <item>Opening hours: 11:00 to 22:00</item>
+        <item>Opening hours: 10:00 to 22:00</item>
+        <item>Opening hours: 9:00 to 21:00</item>
+        <item>Opening hours: 11:00 to 24:00</item>
+    </string-array>
+
+    <array name="list_restaurant_images">
+
+    </array>
+</resources>

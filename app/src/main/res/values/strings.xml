@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alex Tour Guide</string>
+    <string name="tour_guide_title">Alexandria guide</string>
+    <string name="attraction_fragment_title">Attractions</string>
+    <string name="restaurants_fragment_title">Restaurants</string>
+    <string name="accommodation_fragment_title">Accommodation</string>
+    <string name="events_fragment_title">Events</string>
+</resources>
